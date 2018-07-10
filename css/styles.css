@@ -1,0 +1,51 @@
+form select{
+	width: 300px;
+}
+
+form input {
+	margin-top: 10px;
+}
+
+.weather-conditions {
+	width: 300px;
+}
+
+h3 span {
+	font-size: 25px;
+	font-style: italic;
+}
+
+.temp-block img,
+.temp-block .temp {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.temp span{
+	font-size: 25px;
+	font-weight:900;
+}
+
+
+.date {
+	padding-bottom: 10px;
+	font-size: 14px;
+	font-style: italic;
+	color: darkgray;
+}
+
+table {
+	width: 65%;
+	border-collapse: collapse;
+	border-bottom: 2px solid gray;
+}
+
+td {
+	padding: 5px 0 5px 0;
+	border-top: 2px solid gray;
+}
+
+tr td:first-child {
+	width: 50px;
+	text-align: center;
+}
